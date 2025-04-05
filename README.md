@@ -1,37 +1,39 @@
-### System.out.println("Welcome to my github!😆") 👋
-<div> 
-  <h2>👨‍💻 About Me</h2>
+### System.out.println("¡Bienvenido a mi GitHub! 😆") 👋
+<div>
+<h2>👨‍💻 Sobre mí</h2>
 
-- 💼 Seeking my first opportunity as a Front-End Developer
+- 💼 Buscando mi primera oportunidad como desarrollador front-end
 
-- 🎓 Studying Systems Analysis and Development at Unicesumar
+- 🎓 Estudiando Análisis y Desarrollo de Sistemas en Unicesumar
 
-- 📚 Learning Full Stack Development through DevClub
+- 📚 Aprendiendo Desarrollo Full Stack a través de DevClub
 
-- 🎨 Strong experience in UI/UX Design
+- 🎨 Amplia experiencia en diseño UI/UX
 
-- 🏦 Special interest in the banking and fintech sector
+- 🏦 Interés especial en el sector bancario y fintech
 </div>
 
 <div>
-  <h2>🛠️ Technical Skill</h2>
-  <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,styledcomponents,sass"/>
-  </a>
-    <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,github,git,ps,"/>
-  </a>
-    <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,postgres,mysql,docker "/>
-  </a>
+<h2>🛠️ Habilidades técnicas</h2>
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,styledcomponents,sass"/>
+</a>
+<br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=figma,github,git,ps,"/>
+</a>
+<br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,postgres,mysql,docker "/>
+</a>
 </p>
 </div>
 
 <div>
-  <h2>🌐 Contact & Social Media</h2>
-  <a href="https://www.linkedin.com/in/joao-victor-sena-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:victor.sena12@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2>🌐 Contactos </h2>
+<a href="https://www.linkedin.com/in/joao-victor-sena-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="mailto:victor.sena12@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
