@@ -1,39 +1,16 @@
-### System.out.println("¡Bienvenido a mi GitHub! 😆") 👋
-<div>
-<h2>👨‍💻 Sobre mí</h2>
+## 👨🏻‍💻 **João Victor Sena Lopes**
 
-- 💼 Buscando mi primera oportunidad como desarrollador front-end
+Studying a Technologist in Systems Analysis and Development (1th semester) at UniCesumar University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
-- 🎓 Estudiando Análisis y Desarrollo de Sistemas en Unicesumar
+Reach me out here: <a href="mailto:victor.sena12@hotmail.com" target="__blank">victor.sena12@hotmail.com</a>
 
-- 📚 Aprendiendo Desarrollo Full Stack a través de DevClub
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
 
-- 🎨 Amplia experiencia en diseño UI/UX
+### Tech content creator
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sennaa_dev/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-sena-lopes/)
 
-- 🏦 Interés especial en el sector bancario y fintech
-</div>
-
-<div>
-<h2>🛠️ Habilidades técnicas</h2>
-<p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,styledcomponents,sass"/>
-</a>
-<br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma,github,git,ps,"/>
-</a>
-<br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,postgres,mysql,docker "/>
-</a>
-</p>
-</div>
-
-<div>
-<h2>🌐 Contactos </h2>
-<a href="https://www.linkedin.com/in/joao-victor-sena-lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="mailto:victor.sena12@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Intermediate Spanish
