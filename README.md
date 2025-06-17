@@ -2,7 +2,7 @@
 
 Studying a Technologist in Systems Analysis and Development (1th semester) at UniCesumar University, passionate about gym, purpose, tech education, martial arts, and taking ideas off paper through code.
 
-Reach me out here: <a href="mailto:victor.sena12@hotmail.com" target="__blank">victor.sena12@hotmail.com</a>
+Reach me out here: <a href="mailto:victor.sena12@hotmail.com" target="__blank"> victor.sena12@hotmail.com</a>
 
 ### Stacks
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
