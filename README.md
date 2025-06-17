@@ -8,8 +8,14 @@ Reach me out here: <a href="mailto:victor.sena12@hotmail.com" target="__blank"> 
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,docker,git)](https://skillicons.dev)
 
 ### Tech content creator
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/sennaa_dev/)
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-victor-sena-lopes/)
+<a href="https://www.instagram.com/sennaa_dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-sena-lopes/" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn">
+</a>
+
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
